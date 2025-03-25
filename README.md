@@ -51,6 +51,3 @@ The `Node` class represents a node on the grid. It contains information about it
 ## PathFinderPainter Class
 
 The `PathFinderPainter` class is responsible for rendering the grid, nodes, and path on the screen. It uses custom painting to visualize the algorithm's progress.
-
-
-```
