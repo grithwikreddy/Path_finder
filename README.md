@@ -1,8 +1,6 @@
 # Flutter Path Finder
 
-This Flutter package provides an implementation of path-finding algorithms including Breadth-First Search (BFS), Depth-First Search (DFS), and A\* Search. It also includes a visualization component to help you visualize the algorithms in action.
-
-![Path Finder Demo](/path_finder.gif)
+This Flutter package provides an implementation of path-finding algorithms including Breadth-First Search (BFS), Depth-First Search (DFS), and A\* Search. 
 
 ## Algorithms Implemented
 
